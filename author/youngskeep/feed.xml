@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="https://youngskeep.github.io/author/youngskeep/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://youngskeep.github.io/" rel="alternate" type="text/html" />
+  <updated>2021-08-09T20:28:01+09:00</updated>
+  <id>https://youngskeep.github.io/author/youngskeep/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">방향만 맞으면 늦어도 괜찮아 | </title>
+  
+
+  
+    <subtitle>작은것이라도 도움이 되는 블로그</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">jekyll 기본 설정</title>
+      <link href="https://youngskeep.github.io/jekyll-basic" rel="alternate" type="text/html" title="jekyll 기본 설정" />
+      <published>2020-09-28T01:40:00+09:00</published>
+      <updated>2020-09-28T01:40:00+09:00</updated>
+      <id>https://youngskeep.github.io/jekyll-basic</id>
+      <content type="html" xml:base="https://youngskeep.github.io/jekyll-basic">&lt;h2 id=&quot;jekyll-기본-동영상&quot;&gt;Jekyll 기본 동영상&lt;/h2&gt;
+
+&lt;p&gt;이분 강의 참 좋네요&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>youngskeep</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="jekyll" />
+      
+
+      
+        <summary type="html">Jekyll 기본 동영상</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Python 기본 설정(2)</title>
+      <link href="https://youngskeep.github.io/python-basic-2" rel="alternate" type="text/html" title="Python 기본 설정(2)" />
+      <published>2020-08-28T01:40:00+09:00</published>
+      <updated>2020-08-28T01:40:00+09:00</updated>
+      <id>https://youngskeep.github.io/python-basic-2</id>
+      <content type="html" xml:base="https://youngskeep.github.io/python-basic-2">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Python 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-basic&quot;&gt;Python 강좌(1) - Python 기본&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-basic-2&quot;&gt;Python 강좌(2) - Python 제어문&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-basic-3&quot;&gt;Python 강좌(3) - Python 제어문&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;python-기본-동영상&quot;&gt;Python 기본 동영상&lt;/h2&gt;
+&lt;p&gt;두번째 글입니다.&lt;/p&gt;
+
+&lt;p&gt;이분 강의 참 좋네요&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>youngskeep</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="python" />
+      
+
+      
+        <summary type="html">Python 강좌는 여러 절로 구성되어 있습니다. Python 강좌(1) - Python 기본 Python 강좌(2) - Python 제어문 Python 강좌(3) - Python 제어문</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Python 기본 설정(3)</title>
+      <link href="https://youngskeep.github.io/python-basic-3" rel="alternate" type="text/html" title="Python 기본 설정(3)" />
+      <published>2020-08-28T01:40:00+09:00</published>
+      <updated>2020-08-28T01:40:00+09:00</updated>
+      <id>https://youngskeep.github.io/python-basic-3</id>
+      <content type="html" xml:base="https://youngskeep.github.io/python-basic-3">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Python 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-basic&quot;&gt;Python 강좌(1) - Python 기본&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-basic-2&quot;&gt;Python 강좌(2) - Python 제어문&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-basic-3&quot;&gt;Python 강좌(3) - Python 제어문&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;python-기본-동영상&quot;&gt;Python 기본 동영상&lt;/h2&gt;
+&lt;p&gt;세번째 글입니다.&lt;/p&gt;
+
+&lt;p&gt;이분 강의 참 좋네요&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>youngskeep</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="python" />
+      
+
+      
+        <summary type="html">Python 강좌는 여러 절로 구성되어 있습니다. Python 강좌(1) - Python 기본 Python 강좌(2) - Python 제어문 Python 강좌(3) - Python 제어문</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Python 기본 설정</title>
+      <link href="https://youngskeep.github.io/python-basic" rel="alternate" type="text/html" title="Python 기본 설정" />
+      <published>2020-08-28T01:40:00+09:00</published>
+      <updated>2020-08-28T01:40:00+09:00</updated>
+      <id>https://youngskeep.github.io/python-basic</id>
+      <content type="html" xml:base="https://youngskeep.github.io/python-basic">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Python 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-basic&quot;&gt;Python 강좌(1) - Python 기본&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-basic-2&quot;&gt;Python 강좌(2) - Python 제어문&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-basic-3&quot;&gt;Python 강좌(3) - Python 제어문&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;python-기본-동영상&quot;&gt;Python 기본 동영상&lt;/h2&gt;
+
+&lt;p&gt;이분 강의 참 좋네요&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>youngskeep</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="python" />
+      
+
+      
+        <summary type="html">Python 강좌는 여러 절로 구성되어 있습니다. Python 강좌(1) - Python 기본 Python 강좌(2) - Python 제어문 Python 강좌(3) - Python 제어문</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
