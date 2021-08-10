@@ -4,7 +4,7 @@
     <title> - Articles</title>
     <description>작은것이라도 도움이 되는 블로그</description>
     <link>
-    https://youngskeep.github.io</link>
+    http://localhost:4000</link>
     
       
       <item>
@@ -16,8 +16,8 @@
         
         <pubDate>Mon, 28 Sep 2020 01:40:00 +0900</pubDate>
         <link>
-        https://youngskeep.github.io/jekyll-basic</link>
-        <guid isPermaLink="true">https://youngskeep.github.io/jekyll-basic</guid>
+        http://localhost:4000/jekyll-basic</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll-basic</guid>
       </item>
       
     
@@ -36,8 +36,8 @@
         
         <pubDate>Fri, 28 Aug 2020 01:40:00 +0900</pubDate>
         <link>
-        https://youngskeep.github.io/python-basic</link>
-        <guid isPermaLink="true">https://youngskeep.github.io/python-basic</guid>
+        http://localhost:4000/python-basic</link>
+        <guid isPermaLink="true">http://localhost:4000/python-basic</guid>
       </item>
       
     
@@ -56,8 +56,8 @@
         
         <pubDate>Fri, 28 Aug 2020 01:40:00 +0900</pubDate>
         <link>
-        https://youngskeep.github.io/python-basic-3</link>
-        <guid isPermaLink="true">https://youngskeep.github.io/python-basic-3</guid>
+        http://localhost:4000/python-basic-3</link>
+        <guid isPermaLink="true">http://localhost:4000/python-basic-3</guid>
       </item>
       
     
@@ -76,8 +76,8 @@
         
         <pubDate>Fri, 28 Aug 2020 01:40:00 +0900</pubDate>
         <link>
-        https://youngskeep.github.io/python-basic-2</link>
-        <guid isPermaLink="true">https://youngskeep.github.io/python-basic-2</guid>
+        http://localhost:4000/python-basic-2</link>
+        <guid isPermaLink="true">http://localhost:4000/python-basic-2</guid>
       </item>
       
     
@@ -91,8 +91,8 @@
         
         <pubDate>Thu, 19 Nov 1863 19:18:00 +0900</pubDate>
         <link>
-        https://youngskeep.github.io/gettysburg-address</link>
-        <guid isPermaLink="true">https://youngskeep.github.io/gettysburg-address</guid>
+        http://localhost:4000/gettysburg-address</link>
+        <guid isPermaLink="true">http://localhost:4000/gettysburg-address</guid>
       </item>
       
     
