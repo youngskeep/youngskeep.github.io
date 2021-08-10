@@ -10,11 +10,36 @@
       <item>
         <title>jekyll 기본 설정</title>
         
-          <description>&lt;h2 id=&quot;jekyll-기본-동영상&quot;&gt;Jekyll 기본 동영상&lt;/h2&gt;
+          <description>&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;항목&lt;/th&gt;
+      &lt;th&gt;설명&lt;/th&gt;
+      &lt;th&gt;비고&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;대상자&lt;/td&gt;
+      &lt;td&gt;블로그 개설이 하고 싶은 개발자 분들&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;누가 도움이 될까?&lt;/td&gt;
+      &lt;td&gt;1. github.io 블로그를 구성해보고 싶은 분들 &lt;br /&gt; 2. 만들었는데, 뭔가 이상하고 잘 안되는 분들 &lt;br /&gt;&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;전달 메세지&lt;/td&gt;
+      &lt;td&gt;저도 관련 글이나, 참고해서 만들었다가, 초기 환경은 구성했는데,&lt;br /&gt;  단순한 layout만 구성되고 _post 작성만 가능하였는데, &lt;br /&gt; 좀 제대로 해보려고 진행했던 내용을 공유합니다.&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
 </description>
         
-        <pubDate>Mon, 28 Sep 2020 01:40:00 +0900</pubDate>
+        <pubDate>Fri, 02 Jul 2021 01:40:00 +0900</pubDate>
         <link>
         http://localhost:4000/jekyll-basic</link>
         <guid isPermaLink="true">http://localhost:4000/jekyll-basic</guid>
@@ -78,21 +103,6 @@
         <link>
         http://localhost:4000/python-basic-2</link>
         <guid isPermaLink="true">http://localhost:4000/python-basic-2</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>Gettysburg Address</title>
-        
-          <description>&lt;p&gt;Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Thu, 19 Nov 1863 19:18:00 +0900</pubDate>
-        <link>
-        http://localhost:4000/gettysburg-address</link>
-        <guid isPermaLink="true">http://localhost:4000/gettysburg-address</guid>
       </item>
       
     
