@@ -8,6 +8,46 @@
     
       
       <item>
+        <title>실무 예제로 배우는 데이터 공학</title>
+        
+          <description>&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;항목&lt;/th&gt;
+      &lt;th&gt;설명&lt;/th&gt;
+      &lt;th&gt;비고&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;대상자&lt;/td&gt;
+      &lt;td&gt;데이타 Flow를 구축해야 하는 담당자, ETL/데이타웨어하우스 구축에 관심이 있는 분&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;누가 도움이 될까?&lt;/td&gt;
+      &lt;td&gt;Apache Nifi, Airflow를 들어보고 관심있는 분들이 좀더 도움이 될거 같습니다.&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;전달 메세지&lt;/td&gt;
+      &lt;td&gt;여러가지 관련 오픈소스를 경험해보고, 방향성 잡기 좋을거 같습니다.&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+</description>
+        
+        <pubDate>Tue, 10 Aug 2021 19:40:00 +0900</pubDate>
+        <link>
+        http://localhost:4000/book-%EC%8B%A4%EB%AC%B4%EC%98%88%EC%A0%9C%EB%A1%9C%EB%B0%B0%EC%9A%B0%EB%8A%94%EB%8D%B0%EC%9D%B4%ED%83%80%EA%B3%B5%ED%95%99</link>
+        <guid isPermaLink="true">http://localhost:4000/book-%EC%8B%A4%EB%AC%B4%EC%98%88%EC%A0%9C%EB%A1%9C%EB%B0%B0%EC%9A%B0%EB%8A%94%EB%8D%B0%EC%9D%B4%ED%83%80%EA%B3%B5%ED%95%99</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>jekyll 기본 설정</title>
         
           <description>&lt;table&gt;
