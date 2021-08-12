@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
   <link href="http://localhost:4000/tag/book/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2021-08-12T15:51:04+09:00</updated>
+  <updated>2021-08-12T16:01:26+09:00</updated>
   <id>http://localhost:4000/tag/book/feed.xml</id>
 
   
@@ -66,8 +66,16 @@
 
 &lt;h3 id=&quot;책-제목에-데이터-공학-이란-단어가-들어간다&quot;&gt;책 제목에 데이터 공학 이란 단어가 들어간다.&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/built/images/book/book-data-cover.png&quot; width=&quot;350px&quot; height=&quot;400px&quot; /&gt;
-데이터 공학 vs 데이타 과학&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;책 제목 : 실무 예제로 배우는 데이터 공학
+    &lt;ul&gt;
+      &lt;li&gt;소제목 : 파이썬과 오픈소스 프로젝트로 만드는 나만의 데이터 공학 환경과 파이프라인
+&lt;img src=&quot;assets/built/images/book/book-data-cover.png&quot; width=&quot;350px&quot; height=&quot;400px&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;데이터-공학-vs-데이타-과학&quot;&gt;데이터 공학 vs 데이타 과학&lt;/h5&gt;
 
 &lt;p&gt;요즘 데이타를 이용해, 각종 분석을 하는것은 데이타 과학이다.
 이 책은 데이타 공학과 데이타 과학이 상호 보완적이지만 분명히 다른 영역이고 2가지 데이타를 다루는 분야중에
