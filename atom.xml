@@ -8,6 +8,86 @@
     
       
       <item>
+        <title>React 학습시 도움되는 사항 정리</title>
+        
+          <description>&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;항목&lt;/th&gt;
+      &lt;th&gt;설명&lt;/th&gt;
+      &lt;th&gt;비고&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;대상자&lt;/td&gt;
+      &lt;td&gt;React를 처음 학습하려고 하는 개발자&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;글의 내용&lt;/td&gt;
+      &lt;td&gt;동영상 및 도움 받은 사항을 1차 기록 하기 위한 목적&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;전달 메세지&lt;/td&gt;
+      &lt;td&gt;공부하면서 도움 받은 사항을 정리하는 목적입니다.&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+</description>
+        
+        <pubDate>Tue, 17 Aug 2021 19:40:00 +0900</pubDate>
+        <link>
+        http://localhost:4000/unstage-react-study-step</link>
+        <guid isPermaLink="true">http://localhost:4000/unstage-react-study-step</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>주로 사용하는 markdown문법</title>
+        
+          <description>&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;항목&lt;/th&gt;
+      &lt;th&gt;설명&lt;/th&gt;
+      &lt;th&gt;비고&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;대상자&lt;/td&gt;
+      &lt;td&gt;markdown문법 정리&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;글의 내용&lt;/td&gt;
+      &lt;td&gt;제가 주로 사용하는 사항 기록&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;전달 메세지&lt;/td&gt;
+      &lt;td&gt;막상 쓸려먼 까먹어서 자주 사용하는 사항 정리 목적&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+</description>
+        
+        <pubDate>Tue, 17 Aug 2021 19:40:00 +0900</pubDate>
+        <link>
+        http://localhost:4000/unstage-markdown</link>
+        <guid isPermaLink="true">http://localhost:4000/unstage-markdown</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>실무 예제로 배우는 데이터 공학</title>
         
           <description>&lt;table&gt;
@@ -143,6 +223,26 @@
         <link>
         http://localhost:4000/python-basic-2</link>
         <guid isPermaLink="true">http://localhost:4000/python-basic-2</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Python 기본 설정</title>
+        
+          <description>&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-basic&quot;&gt;Python 강좌(1) - Python 기본&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-basic-2&quot;&gt;Python 강좌(2) - Python 제어문&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-basic-3&quot;&gt;Python 강좌(3) - Python 제어문&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;)&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Fri, 28 Aug 2020 01:40:00 +0900</pubDate>
+        <link>
+        http://localhost:4000/machine-learing-start</link>
+        <guid isPermaLink="true">http://localhost:4000/machine-learing-start</guid>
       </item>
       
     
