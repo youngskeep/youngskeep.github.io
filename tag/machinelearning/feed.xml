@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="http://localhost:4000/tag/machinelearning/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2021-08-18T19:09:32+09:00</updated>
+  <id>http://localhost:4000/tag/machinelearning/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">방향만 맞으면 늦어도 괜찮아 | </title>
+  
+
+  
+    <subtitle>작은것이라도 도움이 되는 블로그</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Python 기본 설정</title>
+      <link href="http://localhost:4000/machine-learing-start" rel="alternate" type="text/html" title="Python 기본 설정" />
+      <published>2020-08-28T01:40:00+09:00</published>
+      <updated>2020-08-28T01:40:00+09:00</updated>
+      <id>http://localhost:4000/machine-learing-start</id>
+      <content type="html" xml:base="http://localhost:4000/machine-learing-start">&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-basic&quot;&gt;Python 강좌(1) - Python 기본&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-basic-2&quot;&gt;Python 강좌(2) - Python 제어문&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-basic-3&quot;&gt;Python 강좌(3) - Python 제어문&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;)&lt;/p&gt;
+
+&lt;h2 id=&quot;머신러닝-학습을-위한-준비&quot;&gt;머신러닝 학습을 위한 준비&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>youngskeep</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="machinelearning" />
+      
+
+      
+        <summary type="html">Python 강좌(1) - Python 기본 Python 강좌(2) - Python 제어문 Python 강좌(3) - Python 제어문 )</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

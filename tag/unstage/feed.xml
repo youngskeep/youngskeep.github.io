@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="http://localhost:4000/tag/unstage/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2021-08-18T19:09:32+09:00</updated>
+  <id>http://localhost:4000/tag/unstage/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">방향만 맞으면 늦어도 괜찮아 | </title>
+  
+
+  
+    <subtitle>작은것이라도 도움이 되는 블로그</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">React 학습시 도움되는 사항 정리</title>
+      <link href="http://localhost:4000/unstage-react-study-step" rel="alternate" type="text/html" title="React 학습시 도움되는 사항 정리" />
+      <published>2021-08-01T19:40:00+09:00</published>
+      <updated>2021-08-01T19:40:00+09:00</updated>
+      <id>http://localhost:4000/unstage-react-study-step</id>
+      <content type="html" xml:base="http://localhost:4000/unstage-react-study-step">&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;항목&lt;/th&gt;
+      &lt;th&gt;설명&lt;/th&gt;
+      &lt;th&gt;비고&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;대상자&lt;/td&gt;
+      &lt;td&gt;React를 처음 학습하려고 하는 개발자&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;글의 내용&lt;/td&gt;
+      &lt;td&gt;동영상 및 도움 받은 사항을 1차 기록 하기 위한 목적&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;전달 메세지&lt;/td&gt;
+      &lt;td&gt;공부하면서 도움 받은 사항을 정리하는 목적입니다.&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;1-동영상-관련&quot;&gt;1. 동영상 관련&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=mJ64l_iONqw&quot;&gt;생활코딩&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;진리의 이고잉님 (처음 접하는 가벼운 마음으로 듣기 좋습니다.)&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=jukwa3_4LdI&quot;&gt;React후에 도입해야 할것들&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCmMgRlN-3GKQ_CH7cOtLdvg&quot;&gt;벨라포트&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;아직 보지는 못했어요.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCp-vBtwvBmDiGqjvLjChaJw&quot;&gt;제로초&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;아직 보지는 못했어요.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;2-블로그-관련&quot;&gt;2. 블로그 관련&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://brunch.co.kr/@skykamja24/606&quot;&gt;리액트 잘하는법&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dev-yakuza.posstree.com/ko/react/props-state/&quot;&gt;리액트 저자분 블로그&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://m.youtube.com/watch?v=oqAdL8Nw5j0&amp;amp;feature=youtu.be&quot;&gt;신입에게 주어지는 첫 과제, React 프로젝트 이야기&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>youngskeep</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="unstage" />
+      
+
+      
+        <summary type="html">항목 설명 비고 대상자 React를 처음 학습하려고 하는 개발자   글의 내용 동영상 및 도움 받은 사항을 1차 기록 하기 위한 목적   전달 메세지 공부하면서 도움 받은 사항을 정리하는 목적입니다.  </summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">주로 사용하는 markdown문법</title>
+      <link href="http://localhost:4000/unstage-markdown" rel="alternate" type="text/html" title="주로 사용하는 markdown문법" />
+      <published>2021-08-01T19:40:00+09:00</published>
+      <updated>2021-08-01T19:40:00+09:00</updated>
+      <id>http://localhost:4000/unstage-markdown</id>
+      <content type="html" xml:base="http://localhost:4000/unstage-markdown">&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;항목&lt;/th&gt;
+      &lt;th&gt;설명&lt;/th&gt;
+      &lt;th&gt;비고&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;대상자&lt;/td&gt;
+      &lt;td&gt;markdown문법 정리&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;글의 내용&lt;/td&gt;
+      &lt;td&gt;제가 주로 사용하는 사항 기록&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;전달 메세지&lt;/td&gt;
+      &lt;td&gt;막상 쓸려먼 까먹어서 자주 사용하는 사항 정리 목적&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;참고) https://heropy.blog/2017/09/30/markdown/&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;목차1) 제목 관련&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;1제목&quot;&gt;1.제목&lt;/h1&gt;
+&lt;h2 id=&quot;2제목&quot;&gt;2.제목&lt;/h2&gt;
+&lt;h3 id=&quot;3제목&quot;&gt;3.제목&lt;/h3&gt;
+&lt;h4 id=&quot;4제목&quot;&gt;4.제목&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;목차2) 구분선 (*** / — / ___ 3개)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;목차3) 줄바꿈  (맨 뒷줄에 공백 Space2칸)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;그냥 엔터로 줄바꿈 한것과 뒤에 공백 2칸을 넣는것은 화면 표시에 다릅니다.&lt;/li&gt;
+  &lt;li&gt;엔터 (줄간격이 큼), 스페이스2칸 (바로 밑에 붙어서 보기 편합니다.)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;일하자. 개발하자. (공백이 뒤에 공백 2칸)&lt;br /&gt;
+일하자. 개발하자.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;목차4) 링크/이미지 넣기, 표시방법&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;검색엔진은 &lt;a href=&quot;https://www.google.com&quot;&gt;구글&lt;/a&gt;이 좋습니다.&lt;br /&gt;
+&lt;img src=&quot;https://pds.joins.com/news/component/moneytoday/201207/20/2012072016383476570_1.jpg&quot; alt=&quot;베트맨 이미지&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;이탤릭&lt;/em&gt;  (&lt;em&gt;1개)  &lt;br /&gt;
+&lt;strong&gt;볼드&lt;/strong&gt;  (&lt;strong&gt;2개)&lt;br /&gt;
+***이텔릭볼드&lt;/strong&gt;&lt;/em&gt;  (**3개)&lt;br /&gt;
+&lt;del&gt;취소선&lt;/del&gt;   (~2개)&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;aaa ( &amp;gt; 1개)&lt;/p&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;bbb (» 2개)&lt;/p&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;ccc (»&amp;gt; 3개)&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;테스트 one&lt;/li&gt;
+  &lt;li&gt;테스트 two&lt;/li&gt;
+  &lt;li&gt;테스트 three&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;aaa
+    &lt;ul&gt;
+      &lt;li&gt;bbb
+        &lt;ul&gt;
+          &lt;li&gt;ccc&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;language-typescript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;aaa&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>youngskeep</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="unstage" />
+      
+
+      
+        <summary type="html">항목 설명 비고 대상자 markdown문법 정리   글의 내용 제가 주로 사용하는 사항 기록   전달 메세지 막상 쓸려먼 까먹어서 자주 사용하는 사항 정리 목적  </summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

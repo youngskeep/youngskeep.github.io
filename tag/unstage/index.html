@@ -11,7 +11,7 @@
 
 
 
-    <title>All Posts</title>
+    <title>Unse - 방향만 맞으면 늦어도 괜찮아</title>
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <!-- Styles'n'Scripts -->
@@ -49,19 +49,19 @@
     <!-- This tag outputs SEO meta+structured data and other important settings -->
     <meta name="description" content="작은것이라도 도움이 되는 블로그" />
     <link rel="shortcut icon" href="http://localhost:4000/assets/built/images/favicon.jpg" type="image/png" />
-    <link rel="canonical" href="http://localhost:4000/archive" />
+    <link rel="canonical" href="http://localhost:4000/tag/unstage/" />
     <meta name="referrer" content="no-referrer-when-downgrade" />
 
      <!--title below is coming from _includes/dynamic_title-->
     <meta property="og:site_name" content="방향만 맞으면 늦어도 괜찮아" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="All Posts" />
+    <meta property="og:title" content="Unse - 방향만 맞으면 늦어도 괜찮아" />
     <meta property="og:description" content="작은것이라도 도움이 되는 블로그" />
-    <meta property="og:url" content="http://localhost:4000/archive" />
+    <meta property="og:url" content="http://localhost:4000/tag/unstage/" />
     <meta property="og:image" content="http://localhost:4000/assets/built/images/blog-cover1.png" />
     <meta property="article:publisher" content="https://www.facebook.com/" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="All Posts" />
+    <meta name="twitter:title" content="Unse - 방향만 맞으면 늦어도 괜찮아" />
     <meta name="twitter:description" content="작은것이라도 도움이 되는 블로그" />
     <meta name="twitter:url" content="http://localhost:4000/" />
     <meta name="twitter:image" content="http://localhost:4000/assets/built/images/blog-cover1.png" />
@@ -81,7 +81,7 @@
         "name": "방향만 맞으면 늦어도 괜찮아",
         "logo": "http://localhost:4000/"
     },
-    "url": "http://localhost:4000/archive",
+    "url": "http://localhost:4000/tag/unstage/",
     "image": {
         "@type": "ImageObject",
         "url": "http://localhost:4000/assets/built/images/blog-cover1.png",
@@ -90,7 +90,7 @@
     },
     "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "http://localhost:4000/archive"
+        "@id": "http://localhost:4000/tag/unstage/"
     },
     "description": "작은것이라도 도움이 되는 블로그"
 }
@@ -105,20 +105,24 @@
     </script> -->
 
     <meta name="generator" content="Jekyll 3.6.2" />
-    <link rel="alternate" type="application/rss+xml" title="All Posts" href="/feed.xml" />
+    <link rel="alternate" type="application/rss+xml" title="Tag Page" href="/feed.xml" />
 
 
 </head>
-<body class="page-template">
+<body class="tag-template">
 
     <div class="site-wrapper">
         <!-- All the main content gets inserted here, index.hbs, post.hbs, etc -->
-        <!-- < default -->
-<!-- The tag above means: insert everything in this file
-into the {body} of the default.hbs template -->
+        <!-- default -->
+<!-- The tag above means - insert everything in this file into the {body} of the default.hbs template -->
 
 <!-- The big featured header, it uses blog cover image as a BG if available -->
-<header class="site-header outer">
+<!-- #tag -->
+<!-- dynamically loading backgrounds for tags,  descriptions and page titles -->
+
+
+
+<header class="site-header outer " style="background-image: url(/assets/built/images/background-frontend.jpg) ">
     <div class="inner">
         <nav class="site-nav">
     <div class="site-nav-left">
@@ -155,121 +159,176 @@ into the {body} of the default.hbs template -->
     </div>
 </nav>
 
+        <div class="site-header-content">
+            <h1 class="site-title">Unstage</h1>
+            <h2 class="site-description">
+                
+                    unstage
+                
+            </h2>
+        </div>
     </div>
 </header>
+<!-- tag -->
 
-<!-- Everything inside the #post tags pulls data from the post -->
-<!-- #post -->
-
+<!-- The main content area -->
 <main id="site-main" class="site-main outer" role="main">
     <div class="inner">
-
-        <article class="post-full  post page no-image">
-
-            <header class="post-full-header">
-                <h1 class="post-full-title">All Posts</h1>
-            </header>
-
+        <div class="post-feed">
+            <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
             
 
-            <section class="post-full-content">
-                <div class="well article">
 
-    
-        <h2>2021</h2>
-        <ul>
-    
-    <li><span class="post-date">
+    <article class="post-card tag-template">
         
-        2021-08-10 </span><a href="./book-%EC%8B%A4%EB%AC%B4%EC%98%88%EC%A0%9C%EB%A1%9C%EB%B0%B0%EC%9A%B0%EB%8A%94%EB%8D%B0%EC%9D%B4%ED%83%80%EA%B3%B5%ED%95%99" target="_blank">실무 예제로 배우는 데이터 공학</a></li>
+            <a class="post-card-image-link" href="/unstage-react-study-step">
+                <div class="post-card-image" style="background-image: url(/assets/built/images/book-data-1.jpeg)"></div>
+            </a>
+        
+        <div class="post-card-content">
+            <a class="post-card-content-link" href="/unstage-react-study-step">
+                <header class="post-card-header">
+                    
+                        
+                            
+                                <span class="post-card-tags">Unstage</span>
+                            
+                        
+                    
 
+                    <h2 class="post-card-title">React 학습시 도움되는 사항 정리</h2>
+                </header>
+                <section class="post-card-excerpt">
+                    
+                        <p>
+  
     
-        
-        
-        
+      항목
+      설명
+      비고
     
-    <li><span class="post-date">
-        
-        2021-08-01 </span><a href="./unstage-react-study-step" target="_blank">React 학습시 도움되는 사항 정리</a></li>
+  
+  
+    
+      대상자
+      React를 처음 학습하려고 하는 개발자
+       
+    
+    
+      글의 내용
+      동영상 및 도움 받은 사항을 1차 기록 하기 위한 목적
+       
+    
+    
+      전달 메세지
+      공부하면서 도움 받은 사항을 정리하는 목적입니다.
+       
+    
+  
 
-    
-        
-        
-        
-    
-    <li><span class="post-date">
-        
-        2021-08-01 </span><a href="./unstage-markdown" target="_blank">주로 사용하는 markdown문법</a></li>
 
-    
-        
-        
-        
-    
-    <li><span class="post-date">
-        
-        2021-07-02 </span><a href="./jekyll-basic" target="_blank">jekyll 기본 설정</a></li>
+</p>
+                    
+                </section>
+            </a>
+            <footer class="post-card-meta">
+                
+                    
+                        
+                        <img class="author-profile-image" src="/assets/built/images/author_logo.png" alt="youngskeep" />
+                        
+                        <span class="post-card-author">
+                            <a href="/author/youngskeep/">youngskeep</a>
+                        </span>
+                    
+                
+                <span class="reading-time">
+                    
+                    
+                      1 min read
+                    
+                </span>
+            </footer>
+        </div>
+    </article>
 
-    
+    <article class="post-card tag-template">
         
+            <a class="post-card-image-link" href="/unstage-markdown">
+                <div class="post-card-image" style="background-image: url(/assets/built/images/book-data-1.jpeg)"></div>
+            </a>
         
-        
-            </ul>
-            <h3>2020</h3>
-            <ul>
-        
-    
-    <li><span class="post-date">
-        
-        2020-08-28 </span><a href="./python-basic" target="_blank">Python 기본 설정</a></li>
+        <div class="post-card-content">
+            <a class="post-card-content-link" href="/unstage-markdown">
+                <header class="post-card-header">
+                    
+                        
+                            
+                                <span class="post-card-tags">Unstage</span>
+                            
+                        
+                    
 
+                    <h2 class="post-card-title">주로 사용하는 markdown문법</h2>
+                </header>
+                <section class="post-card-excerpt">
+                    
+                        <p>
+  
     
-        
-        
-        
+      항목
+      설명
+      비고
     
-    <li><span class="post-date">
-        
-        2020-08-28 </span><a href="./python-basic-3" target="_blank">Python 기본 설정(3)</a></li>
-
+  
+  
     
-        
-        
-        
+      대상자
+      markdown문법 정리
+       
     
-    <li><span class="post-date">
-        
-        2020-08-28 </span><a href="./python-basic-2" target="_blank">Python 기본 설정(2)</a></li>
-
     
-        
-        
-        
+      글의 내용
+      제가 주로 사용하는 사항 기록
+       
     
-    <li><span class="post-date">
-        
-        2020-08-28 </span><a href="./machine-learing-start" target="_blank">Python 기본 설정</a></li>
+    
+      전달 메세지
+      막상 쓸려먼 까먹어서 자주 사용하는 사항 정리 목적
+       
+    
+  
 
-</ul>
-</div>
 
-            </section>
+</p>
+                    
+                </section>
+            </a>
+            <footer class="post-card-meta">
+                
+                    
+                        
+                        <img class="author-profile-image" src="/assets/built/images/author_logo.png" alt="youngskeep" />
+                        
+                        <span class="post-card-author">
+                            <a href="/author/youngskeep/">youngskeep</a>
+                        </span>
+                    
+                
+                <span class="reading-time">
+                    
+                    
+                      1 min read
+                    
+                </span>
+            </footer>
+        </div>
+    </article>
 
-        </article>
 
+        </div>
     </div>
 </main>
-
-<!-- /post -->
-
-<!-- The #contentFor helper here will send everything inside it up to the matching #block helper found in default.hbs -->
-<script>
-$(function() {
-    var $postContent = $(".post-full-content");
-    $postContent.fitVids();
-});
-</script>
-
 
 
         <!-- Previous/next page links - displayed on every page -->
@@ -346,7 +405,7 @@ $(function() {
     <!-- Paginator increased to "infinit" in _config.yml -->
     <!-- if paginator.posts  -->
     <!-- <script>
-        var maxPages = parseInt('');
+        var maxPages = parseInt('1');
     </script>
     <script src="/assets/js/infinitescroll.js"></script> -->
     <!-- /endif -->
@@ -369,14 +428,6 @@ $(function() {
 
 
     <!-- The #block helper will pull in data from the #contentFor other template files. In this case, there's some JavaScript which we only want to use in post.hbs, but it needs to be included down here, after jQuery has already loaded. -->
-    
-        <script>
-$(function() {
-    var $postContent = $(".post-full-content");
-    $postContent.fitVids();
-});
-</script>
-
     
 
     <!-- Ghost outputs important scripts and data with this tag - it should always be the very last thing before the closing body tag -->
